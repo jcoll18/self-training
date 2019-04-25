@@ -1,5 +1,5 @@
-function greeting(){
-    console.log('Hey from typescript');
+function greeting(msg : string){
+    console.log(msg);
 }
 
-greeting();
+greeting('Hi from the function');
