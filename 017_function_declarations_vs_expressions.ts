@@ -2,7 +2,7 @@ console.log(fullName('Jessica', 'Rowell'));
 // console.log(otherFullName('Jessica', 'Rowell'));
 // console.log(thirdFullName('Jessica', 'Rowell'));
 
-// Function declaration
+// Function declaration, hoisting
 
 function fullName(first : string, last : string) : string {
     return first + " " + last;
