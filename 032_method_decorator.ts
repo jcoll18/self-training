@@ -24,3 +24,7 @@ function admin(target : Object, propertyKey : string, descriptor : TypedProperty
 
 var post = new AccountsPayable;
 post.deleteAccount();
+
+// Doing admin check
+// Working in the billing department
+// Deleting account...
